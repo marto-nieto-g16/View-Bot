@@ -1,6 +1,4 @@
-Aquí tienes un ejemplo de cómo podría ser un archivo `README.md` para tu proyecto en GitHub:
 
----
 
 # Viewer Bot
 
@@ -87,6 +85,5 @@ Este proyecto fue creado con fines educativos y experimentales. No debe utilizar
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar este proyecto, no dudes en abrir un pull request o crear un issue en GitHub.
 
----
 
-Este `README.md` proporciona una guía clara sobre cómo instalar, configurar y usar el proyecto, además de advertir sobre su uso ético.
+
